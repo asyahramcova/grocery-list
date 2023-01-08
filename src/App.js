@@ -8,7 +8,7 @@ function App(){
   return (
     <div className='app'>
       <div className='container'>
-          <img src={ image } className= 'imgMan'  alt="shopping" width="250px"/>
+          <img src={ image } className= 'imgMan'  alt="busyman" width="250px"/>
       </div>
       <div className='container'>
           <h1>To Do List</h1>
